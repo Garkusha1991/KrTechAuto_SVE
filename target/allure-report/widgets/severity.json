@@ -1,0 +1,561 @@
+[ {
+  "uid" : "a7a5ab7b176897de",
+  "name" : "registrationApplication",
+  "time" : {
+    "start" : 1750061829915,
+    "stop" : 1750061830869,
+    "duration" : 954
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d26a654bb0d2dafd",
+  "name" : "step_5",
+  "time" : {
+    "start" : 1750061787682,
+    "stop" : 1750061788393,
+    "duration" : 711
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4078943e046e155b",
+  "name" : "examinationStep_2",
+  "time" : {
+    "start" : 1750061843715,
+    "stop" : 1750061843770,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "867e267249bf23c0",
+  "name" : "hintsOnStep_5",
+  "time" : {
+    "start" : 1750061809970,
+    "stop" : 1750061812551,
+    "duration" : 2581
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "81d7868fa08cd89b",
+  "name" : "hintsOnStep_2",
+  "time" : {
+    "start" : 1750061801340,
+    "stop" : 1750061803959,
+    "duration" : 2619
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c02c214c665db5ae",
+  "name" : "hintsOnStep_7",
+  "time" : {
+    "start" : 1750061817050,
+    "stop" : 1750061819798,
+    "duration" : 2748
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "19a37f9c3e483e63",
+  "name" : "auth",
+  "time" : {
+    "start" : 1750061829804,
+    "stop" : 1750061829913,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "94e1aa9512a6e7e0",
+  "name" : "auth",
+  "time" : {
+    "start" : 1750061862484,
+    "stop" : 1750061862591,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "680913ba35eed165",
+  "name" : "examinationStep_5",
+  "time" : {
+    "start" : 1750061847933,
+    "stop" : 1750061847943,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b3a40be4fbf5e201",
+  "name" : "step_1",
+  "time" : {
+    "start" : 1750061784814,
+    "stop" : 1750061785236,
+    "duration" : 422
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "90d9620ec3fded5a",
+  "name" : "step_6",
+  "time" : {
+    "start" : 1750061816805,
+    "stop" : 1750061817048,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "761067d5eafdda01",
+  "name" : "step_8",
+  "time" : {
+    "start" : 1750061823022,
+    "stop" : 1750061823141,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4396793c1cbe916c",
+  "name" : "registrationApplication",
+  "time" : {
+    "start" : 1750061797441,
+    "stop" : 1750061798503,
+    "duration" : 1062
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "491358a43a7f20f2",
+  "name" : "loadPage",
+  "time" : {
+    "start" : 1750061793694,
+    "stop" : 1750061797320,
+    "duration" : 3626
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "75f4298f03bf80fd",
+  "name" : "step_3",
+  "time" : {
+    "start" : 1750061786061,
+    "stop" : 1750061786948,
+    "duration" : 887
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "23107f6c1ba3e6c5",
+  "name" : "examinationStep_4",
+  "time" : {
+    "start" : 1750061845875,
+    "stop" : 1750061847932,
+    "duration" : 2057
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7a75f5d2ca3d2f46",
+  "name" : "examinationStep_8",
+  "time" : {
+    "start" : 1750061853652,
+    "stop" : 1750061858724,
+    "duration" : 5072
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2fa1b394b510dbd1",
+  "name" : "loadPage",
+  "time" : {
+    "start" : 1750061823814,
+    "stop" : 1750061829802,
+    "duration" : 5988
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6a854e0dc09f5460",
+  "name" : "clearFieldsStep_1_NotError",
+  "time" : {
+    "start" : 1750061798505,
+    "stop" : 1750061798857,
+    "duration" : 352
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "89d57666500b4b5a",
+  "name" : "step_2",
+  "time" : {
+    "start" : 1750061803961,
+    "stop" : 1750061804241,
+    "duration" : 280
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "84ed63743d3816f9",
+  "name" : "hintsOnStep_8",
+  "time" : {
+    "start" : 1750061820462,
+    "stop" : 1750061823020,
+    "duration" : 2558
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4491f6797026dec4",
+  "name" : "clearFields",
+  "time" : {
+    "start" : 1750061830871,
+    "stop" : 1750061831198,
+    "duration" : 327
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "85e78aa9e50537fb",
+  "name" : "step_6",
+  "time" : {
+    "start" : 1750061788394,
+    "stop" : 1750061789162,
+    "duration" : 768
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ce26ca326985ded9",
+  "name" : "step_1",
+  "time" : {
+    "start" : 1750061800928,
+    "stop" : 1750061801339,
+    "duration" : 411
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "84d87873395fe5d3",
+  "name" : "examinationStep_6",
+  "time" : {
+    "start" : 1750061847944,
+    "stop" : 1750061848596,
+    "duration" : 652
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c16447155d498d0f",
+  "name" : "examinationStep_7",
+  "time" : {
+    "start" : 1750061848599,
+    "stop" : 1750061853651,
+    "duration" : 5052
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e7dcfeaa7c3b8a72",
+  "name" : "clearFields",
+  "time" : {
+    "start" : 1750061784449,
+    "stop" : 1750061784812,
+    "duration" : 363
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1ce7c079e1889120",
+  "name" : "step_2",
+  "time" : {
+    "start" : 1750061831603,
+    "stop" : 1750061832398,
+    "duration" : 795
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1adba6bd2f62471b",
+  "name" : "step_1",
+  "time" : {
+    "start" : 1750061831200,
+    "stop" : 1750061831601,
+    "duration" : 401
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6285ac6ab24e99e3",
+  "name" : "step_4",
+  "time" : {
+    "start" : 1750061833261,
+    "stop" : 1750061833974,
+    "duration" : 713
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "aae4e20f7dd7af3c",
+  "name" : "step_5",
+  "time" : {
+    "start" : 1750061833976,
+    "stop" : 1750061834668,
+    "duration" : 692
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fddc15e14c68ee1c",
+  "name" : "auth",
+  "time" : {
+    "start" : 1750061797322,
+    "stop" : 1750061797440,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b50e211831e69417",
+  "name" : "step_4",
+  "time" : {
+    "start" : 1750061786951,
+    "stop" : 1750061787680,
+    "duration" : 729
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9315fd6b38a455b0",
+  "name" : "hintsOnStep_4",
+  "time" : {
+    "start" : 1750061807205,
+    "stop" : 1750061809772,
+    "duration" : 2567
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3a6525a928084eac",
+  "name" : "receptionPlan",
+  "time" : {
+    "start" : 1750061862593,
+    "stop" : 1750061863599,
+    "duration" : 1006
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "751674efd88ecbf2",
+  "name" : "loadPage",
+  "time" : {
+    "start" : 1750061859397,
+    "stop" : 1750061862483,
+    "duration" : 3086
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4c43f130dc1cd067",
+  "name" : "examinationStep_3",
+  "time" : {
+    "start" : 1750061843772,
+    "stop" : 1750061845873,
+    "duration" : 2101
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c499ba38b8d5e374",
+  "name" : "step_7",
+  "time" : {
+    "start" : 1750061819799,
+    "stop" : 1750061820460,
+    "duration" : 661
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1205a98f7ee26040",
+  "name" : "auth",
+  "time" : {
+    "start" : 1750061783251,
+    "stop" : 1750061783377,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e7c55a4209f5a558",
+  "name" : "step_6",
+  "time" : {
+    "start" : 1750061834669,
+    "stop" : 1750061835425,
+    "duration" : 756
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "73459eb541bcdef0",
+  "name" : "step_8",
+  "time" : {
+    "start" : 1750061792316,
+    "stop" : 1750061792967,
+    "duration" : 651
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a6c3ee849a6bb7b8",
+  "name" : "addSpecialty",
+  "time" : {
+    "start" : 1750061863601,
+    "stop" : 1750061865517,
+    "duration" : 1916
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a48c92aec6f33ecb",
+  "name" : "step_7",
+  "time" : {
+    "start" : 1750061835427,
+    "stop" : 1750061837955,
+    "duration" : 2528
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7af13156bf071f3e",
+  "name" : "step_2",
+  "time" : {
+    "start" : 1750061785238,
+    "stop" : 1750061786059,
+    "duration" : 821
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "96d176b89e418152",
+  "name" : "step_8",
+  "time" : {
+    "start" : 1750061837956,
+    "stop" : 1750061838592,
+    "duration" : 636
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5e2b2095f074f4cf",
+  "name" : "hintsOnStep_3",
+  "time" : {
+    "start" : 1750061804243,
+    "stop" : 1750061806840,
+    "duration" : 2597
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "683be8e9482c73da",
+  "name" : "registrationApplication",
+  "time" : {
+    "start" : 1750061783380,
+    "stop" : 1750061784447,
+    "duration" : 1067
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7fccb589b5712107",
+  "name" : "loadPage",
+  "time" : {
+    "start" : 1750061781516,
+    "stop" : 1750061783213,
+    "duration" : 1697
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3c2146d84227a997",
+  "name" : "step_3",
+  "time" : {
+    "start" : 1750061806841,
+    "stop" : 1750061807202,
+    "duration" : 361
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f3171baa9ff36b46",
+  "name" : "examinationStep_1",
+  "time" : {
+    "start" : 1750061838594,
+    "stop" : 1750061843714,
+    "duration" : 5120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5c8e1bb00df10318",
+  "name" : "hintsOnStep_6",
+  "time" : {
+    "start" : 1750061812736,
+    "stop" : 1750061816802,
+    "duration" : 4066
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6230e0bcde019cd4",
+  "name" : "step_5",
+  "time" : {
+    "start" : 1750061812553,
+    "stop" : 1750061812735,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a25081f48356f178",
+  "name" : "step_3",
+  "time" : {
+    "start" : 1750061832399,
+    "stop" : 1750061833260,
+    "duration" : 861
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ca33b0fba9a55f41",
+  "name" : "step_7",
+  "time" : {
+    "start" : 1750061789164,
+    "stop" : 1750061792314,
+    "duration" : 3150
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f26bce58dee3214f",
+  "name" : "hintsOnStep_1",
+  "time" : {
+    "start" : 1750061798859,
+    "stop" : 1750061800926,
+    "duration" : 2067
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6b918c0bc0ab54c",
+  "name" : "step_4",
+  "time" : {
+    "start" : 1750061809774,
+    "stop" : 1750061809969,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

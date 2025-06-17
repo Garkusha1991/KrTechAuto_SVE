@@ -1,0 +1,97 @@
+{
+  "uid" : "aae4e20f7dd7af3c",
+  "name" : "step_5",
+  "fullName" : "smoke.test.Registration.RegistrationComparisonFields.step_5",
+  "historyId" : "a96f56c25e3edb39cadd8978afb26d4",
+  "time" : {
+    "start" : 1750061833976,
+    "stop" : 1750061834668,
+    "duration" : 692
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1750061823251,
+      "stop" : 1750061823813,
+      "duration" : 562
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1750061858724,
+      "stop" : 1750061858809,
+      "duration" : 85
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "smoke.test.Registration.RegistrationComparisonFields"
+  }, {
+    "name" : "testClass",
+    "value" : "smoke.test.Registration.RegistrationComparisonFields"
+  }, {
+    "name" : "testMethod",
+    "value" : "step_5"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "smoke.test.Registration.RegistrationComparisonFields"
+  }, {
+    "name" : "host",
+    "value" : "HW-CIT531-10"
+  }, {
+    "name" : "thread",
+    "value" : "17232@HW-CIT531-10.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aae4e20f7dd7af3c.json",
+  "parameterValues" : [ ]
+}

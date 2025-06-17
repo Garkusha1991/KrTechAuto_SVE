@@ -1,0 +1,741 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "HW-CIT531-10",
+    "children" : [ {
+      "name" : "17232@HW-CIT531-10.main(1)",
+      "children" : [ {
+        "name" : "step_8",
+        "uid" : "96d176b89e418152",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061837956,
+          "stop" : 1750061838592,
+          "duration" : 636
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loadPage",
+        "uid" : "2fa1b394b510dbd1",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061823814,
+          "stop" : 1750061829802,
+          "duration" : 5988
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_8",
+        "uid" : "7a75f5d2ca3d2f46",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061853652,
+          "stop" : 1750061858724,
+          "duration" : 5072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_7",
+        "uid" : "ca33b0fba9a55f41",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061789164,
+          "stop" : 1750061792314,
+          "duration" : 3150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_3",
+        "uid" : "3c2146d84227a997",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061806841,
+          "stop" : 1750061807202,
+          "duration" : 361
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_1",
+        "uid" : "ce26ca326985ded9",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061800928,
+          "stop" : 1750061801339,
+          "duration" : 411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearFieldsStep_1_NotError",
+        "uid" : "6a854e0dc09f5460",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061798505,
+          "stop" : 1750061798857,
+          "duration" : 352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "auth",
+        "uid" : "1205a98f7ee26040",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061783251,
+          "stop" : 1750061783377,
+          "duration" : 126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_5",
+        "uid" : "680913ba35eed165",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061847933,
+          "stop" : 1750061847943,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_4",
+        "uid" : "23107f6c1ba3e6c5",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061845875,
+          "stop" : 1750061847932,
+          "duration" : 2057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationApplication",
+        "uid" : "a7a5ab7b176897de",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061829915,
+          "stop" : 1750061830869,
+          "duration" : 954
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_5",
+        "uid" : "aae4e20f7dd7af3c",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061833976,
+          "stop" : 1750061834668,
+          "duration" : 692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_7",
+        "uid" : "c499ba38b8d5e374",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061819799,
+          "stop" : 1750061820460,
+          "duration" : 661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_2",
+        "uid" : "4078943e046e155b",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061843715,
+          "stop" : 1750061843770,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_1",
+        "uid" : "1adba6bd2f62471b",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061831200,
+          "stop" : 1750061831601,
+          "duration" : 401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_4",
+        "uid" : "6285ac6ab24e99e3",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061833261,
+          "stop" : 1750061833974,
+          "duration" : 713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_2",
+        "uid" : "1ce7c079e1889120",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061831603,
+          "stop" : 1750061832398,
+          "duration" : 795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_5",
+        "uid" : "d26a654bb0d2dafd",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061787682,
+          "stop" : 1750061788393,
+          "duration" : 711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "auth",
+        "uid" : "19a37f9c3e483e63",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061829804,
+          "stop" : 1750061829913,
+          "duration" : 109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_4",
+        "uid" : "6b918c0bc0ab54c",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061809774,
+          "stop" : 1750061809969,
+          "duration" : 195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_3",
+        "uid" : "a25081f48356f178",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061832399,
+          "stop" : 1750061833260,
+          "duration" : 861
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_3",
+        "uid" : "75f4298f03bf80fd",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061786061,
+          "stop" : 1750061786948,
+          "duration" : 887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addSpecialty",
+        "uid" : "a6c3ee849a6bb7b8",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061863601,
+          "stop" : 1750061865517,
+          "duration" : 1916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_4",
+        "uid" : "9315fd6b38a455b0",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061807205,
+          "stop" : 1750061809772,
+          "duration" : 2567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_1",
+        "uid" : "f26bce58dee3214f",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061798859,
+          "stop" : 1750061800926,
+          "duration" : 2067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loadPage",
+        "uid" : "7fccb589b5712107",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061781516,
+          "stop" : 1750061783213,
+          "duration" : 1697
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_1",
+        "uid" : "f3171baa9ff36b46",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061838594,
+          "stop" : 1750061843714,
+          "duration" : 5120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_3",
+        "uid" : "4c43f130dc1cd067",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061843772,
+          "stop" : 1750061845873,
+          "duration" : 2101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_5",
+        "uid" : "6230e0bcde019cd4",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061812553,
+          "stop" : 1750061812735,
+          "duration" : 182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_5",
+        "uid" : "867e267249bf23c0",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061809970,
+          "stop" : 1750061812551,
+          "duration" : 2581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_6",
+        "uid" : "5c8e1bb00df10318",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061812736,
+          "stop" : 1750061816802,
+          "duration" : 4066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_3",
+        "uid" : "5e2b2095f074f4cf",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061804243,
+          "stop" : 1750061806840,
+          "duration" : 2597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_2",
+        "uid" : "7af13156bf071f3e",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061785238,
+          "stop" : 1750061786059,
+          "duration" : 821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_7",
+        "uid" : "c16447155d498d0f",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061848599,
+          "stop" : 1750061853651,
+          "duration" : 5052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationApplication",
+        "uid" : "683be8e9482c73da",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061783380,
+          "stop" : 1750061784447,
+          "duration" : 1067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loadPage",
+        "uid" : "491358a43a7f20f2",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061793694,
+          "stop" : 1750061797320,
+          "duration" : 3626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_6",
+        "uid" : "e7c55a4209f5a558",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061834669,
+          "stop" : 1750061835425,
+          "duration" : 756
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_6",
+        "uid" : "90d9620ec3fded5a",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061816805,
+          "stop" : 1750061817048,
+          "duration" : 243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_7",
+        "uid" : "a48c92aec6f33ecb",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061835427,
+          "stop" : 1750061837955,
+          "duration" : 2528
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loadPage",
+        "uid" : "751674efd88ecbf2",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061859397,
+          "stop" : 1750061862483,
+          "duration" : 3086
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "auth",
+        "uid" : "fddc15e14c68ee1c",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061797322,
+          "stop" : 1750061797440,
+          "duration" : 118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_8",
+        "uid" : "73459eb541bcdef0",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061792316,
+          "stop" : 1750061792967,
+          "duration" : 651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_1",
+        "uid" : "b3a40be4fbf5e201",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061784814,
+          "stop" : 1750061785236,
+          "duration" : 422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_8",
+        "uid" : "761067d5eafdda01",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061823022,
+          "stop" : 1750061823141,
+          "duration" : 119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "receptionPlan",
+        "uid" : "3a6525a928084eac",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061862593,
+          "stop" : 1750061863599,
+          "duration" : 1006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearFields",
+        "uid" : "e7dcfeaa7c3b8a72",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061784449,
+          "stop" : 1750061784812,
+          "duration" : 363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "auth",
+        "uid" : "94e1aa9512a6e7e0",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061862484,
+          "stop" : 1750061862591,
+          "duration" : 107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationApplication",
+        "uid" : "4396793c1cbe916c",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061797441,
+          "stop" : 1750061798503,
+          "duration" : 1062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_2",
+        "uid" : "81d7868fa08cd89b",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061801340,
+          "stop" : 1750061803959,
+          "duration" : 2619
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "examinationStep_6",
+        "uid" : "84d87873395fe5d3",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061847944,
+          "stop" : 1750061848596,
+          "duration" : 652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_8",
+        "uid" : "84ed63743d3816f9",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061820462,
+          "stop" : 1750061823020,
+          "duration" : 2558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_6",
+        "uid" : "85e78aa9e50537fb",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061788394,
+          "stop" : 1750061789162,
+          "duration" : 768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_2",
+        "uid" : "89d57666500b4b5a",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061803961,
+          "stop" : 1750061804241,
+          "duration" : 280
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "step_4",
+        "uid" : "b50e211831e69417",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061786951,
+          "stop" : 1750061787680,
+          "duration" : 729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "hintsOnStep_7",
+        "uid" : "c02c214c665db5ae",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061817050,
+          "stop" : 1750061819798,
+          "duration" : 2748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearFields",
+        "uid" : "4491f6797026dec4",
+        "parentUid" : "2f77fa9ed238722d3510a0d608a1b354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1750061830871,
+          "stop" : 1750061831198,
+          "duration" : 327
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f77fa9ed238722d3510a0d608a1b354"
+    } ],
+    "uid" : "4b5eb4c9119204b5a7660220c7110664"
+  } ]
+}

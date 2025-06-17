@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="56" passed="56" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-16T11:16:20 MSK" name="All Test Suite" finished-at="2025-06-16T11:17:45 MSK" duration-ms="85086">
+    <groups>
+    </groups>
+    <test started-at="2025-06-16T11:16:20 MSK" name="Smoke Test" finished-at="2025-06-16T11:17:45 MSK" duration-ms="85086">
+      <class name="smoke.test.Registration.RegistrationClassic">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:20 MSK" name="beforeClass" finished-at="2025-06-16T11:16:21 MSK" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loadPage()[pri:1, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:21 MSK" name="loadPage" finished-at="2025-06-16T11:16:23 MSK" duration-ms="1721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="auth()[pri:2, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:23 MSK" name="auth" finished-at="2025-06-16T11:16:23 MSK" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth -->
+        <test-method signature="registrationApplication()[pri:3, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:23 MSK" name="registrationApplication" finished-at="2025-06-16T11:16:24 MSK" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationApplication -->
+        <test-method signature="clearFields()[pri:4, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:24 MSK" name="clearFields" finished-at="2025-06-16T11:16:24 MSK" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method signature="step_1()[pri:5, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:24 MSK" name="step_1" finished-at="2025-06-16T11:16:25 MSK" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_1 -->
+        <test-method signature="step_2()[pri:6, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:25 MSK" name="step_2" finished-at="2025-06-16T11:16:26 MSK" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_2 -->
+        <test-method signature="step_3()[pri:7, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:26 MSK" name="step_3" finished-at="2025-06-16T11:16:26 MSK" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_3 -->
+        <test-method signature="step_4()[pri:8, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:26 MSK" name="step_4" finished-at="2025-06-16T11:16:27 MSK" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_4 -->
+        <test-method signature="step_5()[pri:9, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:27 MSK" name="step_5" finished-at="2025-06-16T11:16:28 MSK" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_5 -->
+        <test-method signature="step_6()[pri:10, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:28 MSK" name="step_6" finished-at="2025-06-16T11:16:29 MSK" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_6 -->
+        <test-method signature="step_7()[pri:11, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:29 MSK" name="step_7" finished-at="2025-06-16T11:16:32 MSK" duration-ms="3151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_7 -->
+        <test-method signature="step_8()[pri:12, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:32 MSK" name="step_8" finished-at="2025-06-16T11:16:32 MSK" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_8 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smoke.test.Registration.RegistrationClassic@5c80cf32]" started-at="2025-06-16T11:16:32 MSK" name="tearDown" finished-at="2025-06-16T11:16:33 MSK" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoke.test.Registration.RegistrationClassic -->
+      <class name="smoke.test.CheckDuplicateSpecialties">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:smoke.test.CheckDuplicateSpecialties@710636b0]" started-at="2025-06-16T11:17:38 MSK" name="beforeClass" finished-at="2025-06-16T11:17:39 MSK" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loadPage()[pri:1, instance:smoke.test.CheckDuplicateSpecialties@710636b0]" started-at="2025-06-16T11:17:39 MSK" name="loadPage" finished-at="2025-06-16T11:17:42 MSK" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="auth()[pri:2, instance:smoke.test.CheckDuplicateSpecialties@710636b0]" started-at="2025-06-16T11:17:42 MSK" name="auth" finished-at="2025-06-16T11:17:42 MSK" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth -->
+        <test-method signature="receptionPlan()[pri:3, instance:smoke.test.CheckDuplicateSpecialties@710636b0]" started-at="2025-06-16T11:17:42 MSK" name="receptionPlan" finished-at="2025-06-16T11:17:43 MSK" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- receptionPlan -->
+        <test-method signature="addSpecialty()[pri:4, instance:smoke.test.CheckDuplicateSpecialties@710636b0]" started-at="2025-06-16T11:17:43 MSK" name="addSpecialty" finished-at="2025-06-16T11:17:45 MSK" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpecialty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smoke.test.CheckDuplicateSpecialties@710636b0]" started-at="2025-06-16T11:17:45 MSK" name="tearDown" finished-at="2025-06-16T11:17:45 MSK" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoke.test.CheckDuplicateSpecialties -->
+      <class name="smoke.test.Registration.RegistrationComparisonFields">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:03 MSK" name="beforeClass" finished-at="2025-06-16T11:17:03 MSK" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loadPage()[pri:1, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:03 MSK" name="loadPage" finished-at="2025-06-16T11:17:09 MSK" duration-ms="5989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="auth()[pri:2, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:09 MSK" name="auth" finished-at="2025-06-16T11:17:09 MSK" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth -->
+        <test-method signature="registrationApplication()[pri:3, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:09 MSK" name="registrationApplication" finished-at="2025-06-16T11:17:10 MSK" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationApplication -->
+        <test-method signature="clearFields()[pri:4, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:10 MSK" name="clearFields" finished-at="2025-06-16T11:17:11 MSK" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method signature="step_1()[pri:5, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:11 MSK" name="step_1" finished-at="2025-06-16T11:17:11 MSK" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_1 -->
+        <test-method signature="step_2()[pri:6, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:11 MSK" name="step_2" finished-at="2025-06-16T11:17:12 MSK" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_2 -->
+        <test-method signature="step_3()[pri:7, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:12 MSK" name="step_3" finished-at="2025-06-16T11:17:13 MSK" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_3 -->
+        <test-method signature="step_4()[pri:8, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:13 MSK" name="step_4" finished-at="2025-06-16T11:17:13 MSK" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_4 -->
+        <test-method signature="step_5()[pri:9, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:13 MSK" name="step_5" finished-at="2025-06-16T11:17:14 MSK" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_5 -->
+        <test-method signature="step_6()[pri:10, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:14 MSK" name="step_6" finished-at="2025-06-16T11:17:15 MSK" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_6 -->
+        <test-method signature="step_7()[pri:11, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:15 MSK" name="step_7" finished-at="2025-06-16T11:17:17 MSK" duration-ms="2528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_7 -->
+        <test-method signature="step_8()[pri:12, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:17 MSK" name="step_8" finished-at="2025-06-16T11:17:18 MSK" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_8 -->
+        <test-method signature="examinationStep_1()[pri:13, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:18 MSK" name="examinationStep_1" finished-at="2025-06-16T11:17:23 MSK" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_1 -->
+        <test-method signature="examinationStep_2()[pri:14, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:23 MSK" name="examinationStep_2" finished-at="2025-06-16T11:17:23 MSK" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_2 -->
+        <test-method signature="examinationStep_3()[pri:15, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:23 MSK" name="examinationStep_3" finished-at="2025-06-16T11:17:25 MSK" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_3 -->
+        <test-method signature="examinationStep_4()[pri:16, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:25 MSK" name="examinationStep_4" finished-at="2025-06-16T11:17:27 MSK" duration-ms="2058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_4 -->
+        <test-method signature="examinationStep_5()[pri:17, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:27 MSK" name="examinationStep_5" finished-at="2025-06-16T11:17:27 MSK" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_5 -->
+        <test-method signature="examinationStep_6()[pri:18, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:27 MSK" name="examinationStep_6" finished-at="2025-06-16T11:17:28 MSK" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_6 -->
+        <test-method signature="examinationStep_7()[pri:19, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:28 MSK" name="examinationStep_7" finished-at="2025-06-16T11:17:33 MSK" duration-ms="5054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_7 -->
+        <test-method signature="examinationStep_8()[pri:20, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:33 MSK" name="examinationStep_8" finished-at="2025-06-16T11:17:38 MSK" duration-ms="5072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinationStep_8 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smoke.test.Registration.RegistrationComparisonFields@6cb107fd]" started-at="2025-06-16T11:17:38 MSK" name="tearDown" finished-at="2025-06-16T11:17:38 MSK" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoke.test.Registration.RegistrationComparisonFields -->
+      <class name="smoke.test.Registration.RegistrationMandatoryFields">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:33 MSK" name="beforeClass" finished-at="2025-06-16T11:16:33 MSK" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loadPage()[pri:1, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:33 MSK" name="loadPage" finished-at="2025-06-16T11:16:37 MSK" duration-ms="3628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="auth()[pri:2, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:37 MSK" name="auth" finished-at="2025-06-16T11:16:37 MSK" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth -->
+        <test-method signature="registrationApplication()[pri:3, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:37 MSK" name="registrationApplication" finished-at="2025-06-16T11:16:38 MSK" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationApplication -->
+        <test-method signature="clearFieldsStep_1_NotError()[pri:4, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:38 MSK" name="clearFieldsStep_1_NotError" finished-at="2025-06-16T11:16:38 MSK" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFieldsStep_1_NotError -->
+        <test-method signature="hintsOnStep_1()[pri:5, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:38 MSK" name="hintsOnStep_1" finished-at="2025-06-16T11:16:40 MSK" duration-ms="2068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_1 -->
+        <test-method signature="step_1()[pri:6, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:40 MSK" name="step_1" finished-at="2025-06-16T11:16:41 MSK" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_1 -->
+        <test-method signature="hintsOnStep_2()[pri:7, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:41 MSK" name="hintsOnStep_2" finished-at="2025-06-16T11:16:43 MSK" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_2 -->
+        <test-method signature="step_2()[pri:8, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:43 MSK" name="step_2" finished-at="2025-06-16T11:16:44 MSK" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_2 -->
+        <test-method signature="hintsOnStep_3()[pri:9, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:44 MSK" name="hintsOnStep_3" finished-at="2025-06-16T11:16:46 MSK" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_3 -->
+        <test-method signature="step_3()[pri:10, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:46 MSK" name="step_3" finished-at="2025-06-16T11:16:47 MSK" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_3 -->
+        <test-method signature="hintsOnStep_4()[pri:11, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:47 MSK" name="hintsOnStep_4" finished-at="2025-06-16T11:16:49 MSK" duration-ms="2568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_4 -->
+        <test-method signature="step_4()[pri:12, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:49 MSK" name="step_4" finished-at="2025-06-16T11:16:49 MSK" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_4 -->
+        <test-method signature="hintsOnStep_5()[pri:13, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:49 MSK" name="hintsOnStep_5" finished-at="2025-06-16T11:16:52 MSK" duration-ms="2582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_5 -->
+        <test-method signature="step_5()[pri:14, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:52 MSK" name="step_5" finished-at="2025-06-16T11:16:52 MSK" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_5 -->
+        <test-method signature="hintsOnStep_6()[pri:15, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:52 MSK" name="hintsOnStep_6" finished-at="2025-06-16T11:16:56 MSK" duration-ms="4067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_6 -->
+        <test-method signature="step_6()[pri:16, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:56 MSK" name="step_6" finished-at="2025-06-16T11:16:57 MSK" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_6 -->
+        <test-method signature="hintsOnStep_7()[pri:17, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:57 MSK" name="hintsOnStep_7" finished-at="2025-06-16T11:16:59 MSK" duration-ms="2748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_7 -->
+        <test-method signature="step_7()[pri:18, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:16:59 MSK" name="step_7" finished-at="2025-06-16T11:17:00 MSK" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_7 -->
+        <test-method signature="hintsOnStep_8()[pri:19, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:17:00 MSK" name="hintsOnStep_8" finished-at="2025-06-16T11:17:03 MSK" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hintsOnStep_8 -->
+        <test-method signature="step_8()[pri:20, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:17:03 MSK" name="step_8" finished-at="2025-06-16T11:17:03 MSK" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_8 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smoke.test.Registration.RegistrationMandatoryFields@5b799640]" started-at="2025-06-16T11:17:03 MSK" name="tearDown" finished-at="2025-06-16T11:17:03 MSK" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoke.test.Registration.RegistrationMandatoryFields -->
+    </test> <!-- Smoke Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
